@@ -1,0 +1,6 @@
+{
+  "name": "InternShield — AI Recruitment Risk Analyzer",
+  "description": "AI recruitment risk analyzer helping students identify warning signs in internship offers, job advertisements, and recruiter messages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
